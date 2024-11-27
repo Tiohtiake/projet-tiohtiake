@@ -1,0 +1,48 @@
+---
+title: "Tiohtià:ke" 
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Productions réalisées dans le cadre du Projet Tiohtià:ke, partenariat de recherche entre le Conseil Mohawk de Kahnawà:ke, le Musée Pointe-à-Callière et l’Université de Montréal financé par le CRSH (Programme de développement de partenariat, 2019-2023).
+ 
+ <br> 
+ 
+Research outputs of the Tiohtià:ke Project, a research partnership between the Mohawk Council of Kahnawà:ke, the Pointe-à-Callière Museum, and the University of Montreal, funded by SSHRC (Partnership Development Program, 2019-2023).
+
+<hr> 
+
+## Partenaires/Partners
+
+
+
+### Mohawk Council of Kahnawà:ke
+- Christine Zachary-Deom   ![](./images/cross.png){width=20px}
+- Gaétan Nolet
+
+
+### Musée Pointe-à-Callière
+- Louise Pothier
+- Hendrik Van Gijseghem
+
+
+### Université de Montréal
+- Christian Gates St-Pierre
+- Katherine Cook
+
+
+### Collaborateurs/Collaborators
+- Taiaiake Alfred (Consultant)
+- Katsi'tsahén:te Cross-Delisle (Mohawk Council of Kahnawà:ke)
+- John P. Hart (New York State Museum)
+- Kelly Marquis (Mohawk Council of Kahnawà:ke)
+- Jesseca Paquette (Université de Montréal)
+- John Parmenter (Cornell University)
+- Isabelle Ribot (Université de Montréal)
+- Pierre Trudel (UQAM)
+- Roland Viau (Consultant)
+

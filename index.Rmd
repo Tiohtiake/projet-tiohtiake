@@ -1,0 +1,45 @@
+---
+title: "Projet Tiohtià:ke Project" 
+image: "images/tiohtiake.jpg" 
+
+links:
+  - label: Université de Montréal
+    url: 'https://anthropo.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15476/sg/Christian%20Gates%20St-Pierre/ target= "_blank"'
+  - label: Pointe-à-Callière
+    url: 'https://pacmusee.qc.ca/fr/ target= "_blank"'
+  - label: Mohawk Council of Kahnawà:ke 
+    url: 'http://www.kahnawake.com/ target= "_blank"'
+
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+### Liste des rapports et publications | List of reports and publications
+<hr> 
+  <ul>
+<li>Alfred, Gerald Taiaiake. 2021. [*Tiohtià:ke Project - Mohawk Council of Kahnawà:ke Report on Oral Traditions Research*](./documents/taiaiake-alfred-2021.pdf). Mohawk Council of Kahnawà:ke. </li>
+<br> 
+<li>Alfred, Gerald Taiaiake. 2023. [*Tiohtià:ke Project - Mohawk Council of Kahnawà:ke Report on Supplemental Research in Oral Traditions*](./documents/taiaiake-alfred-2023.pdf). Mohawk Council of Kahnawà:ke. </li>
+<br> 
+<li>Hart, John P., Jennifer Birch, et Christian Gates St-Pierre. 2017. [« Effects of Population Dispersal on Regional Signaling Networks: An Example from Northern Iroquoia »](./documents/hart-2017.pdf). *Science Advances*. 3(8): 1‑11. https://doi.org/10.1126/sciadv.1700497.</li>
+<br> 
+<li>Hart, John P, Jennifer Birch, et Christian Gates St-Pierre. 2023. [« Social Network Analysis of Iroquoian Sites in the St. Lawrence River Valley: AD 1400–1600 »](./documents/hart-2023.pdf). *Journal of Historical Network Research*. 8(1): 98‑144. https://doi.org/10.25517/jhnr.v8i1.71.</li>
+<br> 
+<li>Mohawk Council of Kahnawà:ke. 2024. [*Onkwehonwe Ceramic Collection*](https://onkwehonwe.com). Site web.</li>
+<br> 
+<li>Paquette, Jesseca, Isabelle Ribot, Christian Gates St-Pierre, Christine Zachary-Deom, et Gaetan Nolet. 2021. [« Indigenous Human Remains Database from Archaeological Sites in Québec: Preliminary Results »](./documents/paquette-2021.pdf). *Canadian Journal of Archaeology* 45(2): 330‑54. https://doi.org/10.51270/45.2.330.</li>
+<br> 
+<li>Parmenter, Jon. 2024. [*Literature Review: The History of Kahnawà:ke to 1760*](./documents/Parmenter-2024.pdf). Rapport de recherche.</li>
+<br> 
+<li>Pointe-à-Callière. 2018a. [*Tiohtià:ke Project. An Indigenous History of Montreal Phase 1. Recent Iroquoian/Indigenous Occupation (1000 to 1760 of our Era)*](./documents/PaC-projet-2018-en.pdf). Project 2019-2022. </li>
+<br> 
+<li>Pointe-à-Callière. 2018b. [*Projet Tiohtià:ke. Pour une histoire autochtone de Montréal Phase 1. Occupation iroquoienne/autochtone récente (1000 à 1760 de notre ère)*](./documents/PaC-projet-2018-fr.pdf). Projet 2019-2022.</li>
+<br> 
+<li>Pointe-à-Callière. 2024. [*Conférence Tiohtià:ke - Une histoire autochtone de Montréal / Tiohtià:ke Conference - An Indigenous History of Montreal*](https://www.youtube.com/watch?v=eefyhSpljCw&list=PLoGP2s9-wbAkMyrkv16YD-epL1o1szxsI). Vidéos Youtube.</li>
+<br> 
+<li>Proulx, Renaud. 2019. [« Décoloniser l’archéologie »](https://quartierlibre.ca/decoloniser-larcheologie/). *Quartier libre*. Vol. 27. 12 décembre 2019.</li>
+<br> 
+<li>Trudel, Pierre. 2021. [*Qu’est-ce que la tradition orale? Contribution à une définition du concept pour le Projet Tiohià:ke-*](./documents/Trudel-2021.pdf). Rapport de recherche.</li>
+<br> 
+<li>Viau, Roland. 2022. [*Inventaire des sources écrites et des données historiques relatives à la présence iroquoienne dans la vallée du saint-laurent entre 1534 et 1800*](./documents/viau-2022.pdf). Rapport de recherche.</li>  </ul>
