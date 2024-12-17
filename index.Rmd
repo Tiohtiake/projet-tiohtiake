@@ -1,14 +1,16 @@
 ---
 title: "Projet Tiohtià:ke Project" 
-image: "images/tiohtiake.jpg" 
+image: "images/project.png" 
 
 links:
-  - label: Université de Montréal
-    url: 'https://anthropo.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15476/sg/Christian%20Gates%20St-Pierre/ target= "_blank"'
-  - label: Pointe-à-Callière
-    url: 'https://pacmusee.qc.ca/fr/ target= "_blank"'
   - label: Mohawk Council of Kahnawà:ke 
     url: 'http://www.kahnawake.com/ target= "_blank"'
+  - label: Pointe-à-Callière
+    url: 'https://pacmusee.qc.ca/fr/ target= "_blank"'
+  - label: Université de Montréal
+    url: 'https://anthropo.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15476/sg/Christian%20Gates%20St-Pierre/ target= "_blank"'
+
+
 
 output:
   postcards::trestles
